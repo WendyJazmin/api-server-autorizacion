@@ -19,6 +19,7 @@ public class Usuario {
 	@Column(name = "usua_password")
 	private String  password;
 
+	//set y get
 	public Integer getId() {
 		return id;
 	}
